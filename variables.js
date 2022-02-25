@@ -16,7 +16,7 @@ var artistScream = false;
 
 //Reassigns the artistName variable to the string "He Is Legend" then reassigns the artistScream
 //variable to true because they are a screamo band so they scream. I've never listened to them so I don't know
-//f they're any good I just Googled for screamo bands.
+//if they're any good I just Googled for screamo bands.
 artistName = "He Is Legend";
 artistScream = true;
 
